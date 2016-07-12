@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/mcdave029/rails5-chatapp.svg?style=svg)](https://circleci.com/gh/mcdave029/rails5-chatapp)
 # README
 
 This README would normally document whatever steps are necessary to get the
